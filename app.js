@@ -39,6 +39,14 @@ let quotes = [
     author: 'Ram Dass',
     quote: 'We\'re all just walking eachother home.'
   },
-  
+  {
+    author: 'Bill Nye',
+    quote: 'Everyone you meet knows something you don\'t.'
+  },
+  {
+    author: 'Martin Luther King Jr.',
+    quote: 'Out of the mountain of despair, a stone of hope.'
+  }
+
 
 ];
