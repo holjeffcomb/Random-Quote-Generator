@@ -98,7 +98,21 @@ let quotes = [
   {
     author: 'Shigeru Miyamoto',
     quote: 'A delayed game is eventually good, but a rushed game is always bad.'
+  },
+  {
+    author: 'JRR Tolkien',
+    quote: 'Not all those who wander are lost.'
+  },
+  {
+    author: 'JRR Tolkien',
+    quote: 'Even the smallest person can change the course of the future.'
+  },
+  {
+    author: 'The Rock',
+    quote: 'Be humble. Be hungry. And always be the hardest worker in the room.'
   }
-
-
 ];
+
+for (quote in quotes) {
+  console.log(quotes[quote].author);
+}
