@@ -46,6 +46,38 @@ let quotes = [
   {
     author: 'Martin Luther King Jr.',
     quote: 'Out of the mountain of despair, a stone of hope.'
+  },
+  {
+    author: 'Bob Marley',
+    quote: 'Emancipate yourselves from mental slavery. None but ourselves can free our minds.'
+  },
+  {
+    author: 'Malcolm X',
+    quote: 'A man who stands for nothing will fall for anything.'
+  },
+  {
+    author: 'Dr. Seuss',
+    quote: 'Today I shall behave as if this is the day I will be remembered.'
+  },
+  {
+    author: 'Dr. Seuss',
+    quote: 'From there to here and here to there, funny things are everywhere.'
+  },
+  {
+    author: 'David Goggins',
+    quote: 'I don\'t stop when I\'m tired, I stop when I\'m done.'
+  },
+  {
+    author: 'David Goggins',
+    quote: 'Denial is the ultimate comfort zone.'
+  },
+  {
+    author: 'Michael Jordan',
+    quote: 'You have to expect things of yourself before you can do them.'
+  },
+  {
+    author: 'Michael Jordan',
+    quote: 'You miss 100% of the shots you don\'t take.'
   }
 
 
