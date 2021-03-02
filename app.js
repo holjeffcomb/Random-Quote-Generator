@@ -78,6 +78,26 @@ let quotes = [
   {
     author: 'Michael Jordan',
     quote: 'You miss 100% of the shots you don\'t take.'
+  },
+  {
+    author: 'Rumi',
+    quote: 'Don\'t be satisfied with stories, how things have gone with others. Unfold your own myth.'
+  },
+  {
+    author: 'Rumi', 
+    quote: 'Stop acting so small. You are the universe in ecstatic motion.'
+  },
+  {
+    author: 'Eminem',
+    quote: 'A normal life is boring.'
+  },
+  {
+    author: 'Eminem',
+    quote: 'Some people dream of success while others wake up and work hard at it.'
+  },
+  {
+    author: 'Shigeru Miyamoto',
+    quote: 'A delayed game is eventually good, but a rushed game is always bad.'
   }
 
 
